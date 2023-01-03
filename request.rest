@@ -1,0 +1,11 @@
+GET http://localhost:3000/all
+
+###
+
+GET http://localhost:3000/add/:word/:score?
+
+
+
+###
+
+GET http://localhost:3000/search/:word/
